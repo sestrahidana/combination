@@ -1,0 +1,6 @@
+D:\newProject\Combination\Combination\bin\Debug\Combination.exe.config
+D:\newProject\Combination\Combination\bin\Debug\Combination.exe
+D:\newProject\Combination\Combination\bin\Debug\Combination.pdb
+D:\newProject\Combination\Combination\obj\Debug\Combination.csprojResolveAssemblyReference.cache
+D:\newProject\Combination\Combination\obj\Debug\Combination.exe
+D:\newProject\Combination\Combination\obj\Debug\Combination.pdb
