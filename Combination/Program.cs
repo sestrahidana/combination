@@ -11,7 +11,7 @@ namespace Combination
         static void Main(string[] args)
         {
             Console.WriteLine("Введите комбинацию: ");
-            int buff, buff2, buff3, num = 2, num2 = 5, num3 = 7, i = 0, count1 = 0, count2;
+            int buff, buff2, buff3, num = 3, num2 = 6, num3 = 8, i = 0, count1 = 0, count2;
             do
             {
                 count1 = 0;
